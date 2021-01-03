@@ -6,11 +6,13 @@
   position: sticky;
   background: white;
   padding: 10px;
+  
 }
 
 .app-body{
   background-color: #F3F1FF;
   padding: 20px;
+  display: flex;
   
 }
 
@@ -22,5 +24,9 @@
 .user-container-section{
   width: 50%;
   border-right: 1px solid darkgrey;
+}
+
+.cart-container{
+  padding: 20px;
 }
 
