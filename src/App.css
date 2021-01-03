@@ -1,0 +1,26 @@
+
+
+.heading-title{
+  text-align: center;
+  top: 0;
+  position: sticky;
+  background: white;
+  padding: 10px;
+}
+
+.app-body{
+  background-color: #F3F1FF;
+  padding: 20px;
+  
+}
+
+.user-list{
+  
+  margin-right: 100px;
+}
+
+.user-container-section{
+  width: 50%;
+  border-right: 1px solid darkgrey;
+}
+

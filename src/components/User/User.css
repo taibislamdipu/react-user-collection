@@ -1,0 +1,19 @@
+
+
+.user-container{
+    background-color: white;
+    /* width: 30%; */
+    border: 1px solid lightgrey;
+    margin: 20px 0px 0px 20px;
+    padding: 20px;
+}
+
+.flex-area{
+    display: flex;
+    align-items: center;
+}
+
+.flex-area button{
+    margin-left: 20px;
+    padding: 5px 20px;
+}
